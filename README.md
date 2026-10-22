@@ -1,2 +1,2 @@
-# 1342_number_reduce_to_zero-leetcode.c
+leet_code_slutions.c
 leet code solution follow for more
